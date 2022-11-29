@@ -1,3 +1,3 @@
 # Bottom-navBar
 
-bottom navbar using html , css ,javascript
+animated bottom navbar 
